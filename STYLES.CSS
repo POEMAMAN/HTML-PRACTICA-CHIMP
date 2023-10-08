@@ -1,0 +1,38 @@
+.chimp {
+    width: 20%;
+    display: inline;
+    margin: 0 auto;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+label, input {
+    display: block;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+li {
+    color: blue;
+}
+span {
+    color: black;
+}
+#buttom {
+    background-color: aliceblue;
+}
+.requisitos-1, .requisitos-2 {
+    display: inline-block
+}
+input[type="text"], input[type="email"], input[type="password"] {
+    margin-bottom: 10px;
+    padding: 15px;
+    border: 1px solid lightgray;
+    width: 100%;
+}
